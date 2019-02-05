@@ -16,10 +16,10 @@ if (require.main === module) {
     const client = new Cortex(options);
 
     const auth = {
-        username: "stephane800",
-        password: "e=KLM2Epoi",
-        client_id: "oBidky9s4B6z7ndXIaauSaclMRR7Mmh6Tn1RRhOQ",
-        client_secret: "SVY63AzffHoOiZrbMWgGpOosnQwRQL0D1ijU168i8uQ9AsKx5JAYIJislbHHbX7X7q926wKlAL2eRjnfzp9FEbnh5vre6z1fZQUcwCk5ZHQNoFBNTrP6RHRqW7is64nI",
+        username: "your_username",
+        password: "your_passwork",
+        client_id: "your_cortex_client_id",
+        client_secret: "your_cortex_client_secret",
         debit:1 // first time you run example debit should > 0
     };
     
