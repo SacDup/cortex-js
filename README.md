@@ -6,4 +6,4 @@ Cortex javascript examples for Emotiv headsets.
 
 * Clone the repository, cd into the repo and do `npm install`. Put your login information in `hello.js`. Then `node hello.js`. 
 
-* Take care of not uploading any code with your credtials 🙈
+* Take care of not uploading any code with your credentials 🙈
